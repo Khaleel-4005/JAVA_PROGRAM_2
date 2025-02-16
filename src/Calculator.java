@@ -15,6 +15,6 @@ public class Calculator {
         System.out.println("Addition of two integer: " + calc.add(5 ,10));
         System.out.println("double of two double: "+ calc.add(5.5 , 10.5));
     }
-
+//khaleel
     //}
 }
